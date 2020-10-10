@@ -8,4 +8,4 @@
 
 * Query all the data from the `Zip_Census` table and load in pandas.
 
-* Show the `.head()` of your newly imported data.
+* Show the `.head()` of the imported data.
