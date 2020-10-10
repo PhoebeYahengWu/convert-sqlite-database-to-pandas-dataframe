@@ -1,5 +1,4 @@
 # convert-sqlite-database-to-pandas-dataframe
-convert sqlite database to pandas dataframe
 
 * Create an engine to connect to the census database.
 
